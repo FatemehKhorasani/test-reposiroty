@@ -1,2 +1,4 @@
 
 This is note.txt file ...
+
+new message 
